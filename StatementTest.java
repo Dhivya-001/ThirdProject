@@ -16,5 +16,6 @@ public class StatementTest {
 	}else {
 		System.out.println("The Value B is Greater than A");
 	}
+		System.out.println("*******************************");
 
 }}
