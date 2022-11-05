@@ -30,7 +30,7 @@ public class BasicProgram {
 		System.out.println("Enter the Value Z=");
 		Z=dhiv.nextInt();
 		System.out.println ("The Value is="+Z);
-		
+		System.out.println("************");
 		
 
 	}
