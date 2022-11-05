@@ -31,6 +31,7 @@ public class BasicProgram {
 		Z=dhiv.nextInt();
 		System.out.println ("The Value is="+Z);
 		System.out.println("************");
+		System.out.println("_____________");
 		
 
 	}
